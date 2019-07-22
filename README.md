@@ -1,7 +1,8 @@
 # Problem
 
-https://lists.jboss.org/pipermail/keycloak-user/2017-November/012321.html
-https://lists.jboss.org/pipermail/keycloak-user/2017-August/011623.html
+[https://lists.jboss.org/pipermail/keycloak-user/2017-November/012321.html]
+
+[https://lists.jboss.org/pipermail/keycloak-user/2017-August/011623.html]
 
 
 # Solution proposed
